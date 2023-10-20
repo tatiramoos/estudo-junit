@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![novidades-do-junit-5-parte-1](https://github.com/tatiramoos/estudo-junit/assets/106891550/a03ec347-e09a-4f7a-b0f3-39d86b82eba8)
 
 
 # Testes
