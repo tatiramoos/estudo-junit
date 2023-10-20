@@ -12,13 +12,7 @@ Repositório para estudos de teste unitários e de integração.
 - [Documentação JUnit 5](https://junit.org/junit5/docs/current/user-guide/)
 
 
-## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
-
-
-## Instalação
-
-Assertivas mais comuns usadas em projetos:
+## Assertivas mais comuns usadas em projetos:
 
 
 ```bash
