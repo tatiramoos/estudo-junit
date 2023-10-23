@@ -1,11 +1,13 @@
 
 # Testes - JUnit 5
 
-![novidades-do-junit-5-parte-1](https://github.com/tatiramoos/estudo-junit/assets/106891550/a03ec347-e09a-4f7a-b0f3-39d86b82eba8)
+<div align="center">
+<img src="https://github.com/tatiramoos/estudos-junit/assets/106891550/559fe3b1-00d9-41cf-8971-ebf1253bf142" width="300px" />
+</div>
 
-
+<p align="center">
 Repositório para estudos de teste unitários e de integração.
-
+</p>
 
 ## Links Importantes
 
